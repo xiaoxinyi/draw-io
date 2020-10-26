@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T07:16:56.423Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="1NfgFp_sZblEQwV-EpaJ" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T07:59:00.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="ZpxfmYg4IFlp8TFX_qfb" version="13.8.2" type="github">
   <diagram id="EB642aDchgGrtIFB-Igu" name="Page-1">
     <mxGraphModel dx="1298" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-126" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="1150" height="820" as="geometry" />
+        </mxCell>
         <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;align=left;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="960" height="250" as="geometry" />
         </mxCell>
@@ -170,7 +173,7 @@
           <mxGeometry x="70" y="465" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-69" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;align=left;" vertex="1" parent="1">
-          <mxGeometry x="50" y="590" width="960" height="140" as="geometry" />
+          <mxGeometry x="50" y="590" width="960" height="190" as="geometry" />
         </mxCell>
         <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-70" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="110" y="600" width="210" height="120" as="geometry" />
@@ -228,6 +231,72 @@
         </mxCell>
         <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-90" value="&lt;b&gt;乡镇数据库&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="845" y="610" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-93" value="数据接口" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="730" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-100" value="数据分析支撑" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="890" y="730" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-104" value="数据资源目录" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="767" y="730" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-105" value="数据建库" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="730" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-106" value="数据整理" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="730" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-107" value="数据归集" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="730" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-108" value="数据资源门户" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="730" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-111" value="&lt;b&gt;数&lt;br&gt;据&lt;br&gt;资&lt;br&gt;源&lt;br&gt;层&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="635" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-112" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="790" width="960" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-113" value="计算资源" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-114" value="存储资源" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="250" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-115" value="网络资源" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-116" value="安全资源" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-117" value="机房资源" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-118" value="云数据库" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="767" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-119" value="云操作系统" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="890" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-120" value="基础网络（电子政务网、视频专网、公安网、互联网）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="850" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-121" value="物理感知（卡口、点警、视频监控、物联网）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="900" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-122" value="&lt;b&gt;基&lt;br&gt;础&lt;br&gt;设&lt;br&gt;施&lt;br&gt;层&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="830" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-123" value="网&lt;br&gt;络&lt;br&gt;安&lt;br&gt;全&lt;br&gt;体&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;系&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="170" width="40" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-124" value="标&lt;br&gt;准&lt;br&gt;规&lt;br&gt;范&lt;br&gt;体&lt;br&gt;系" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="170" width="40" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="y1ZQ_RpuFM3EtRBCTtOK-125" value="运&lt;br&gt;营&lt;br&gt;维&lt;br&gt;护&lt;br&gt;体&lt;br&gt;系" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A9C4EB;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="170" width="40" height="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
