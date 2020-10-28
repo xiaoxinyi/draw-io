@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T11:03:45.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="i17j5ykB-pHKwpM7sZU_" version="13.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-28T08:26:24.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="rpxjf3VseAklgQ-EBcl4" version="13.8.2" type="github" pages="2">
   <diagram id="EB642aDchgGrtIFB-Igu" name="功能架构">
     <mxGraphModel dx="1298" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
         <mxCell id="L6wkeS6PgrVlcIOzl3i_-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;align=center;" vertex="1" parent="L6wkeS6PgrVlcIOzl3i_-1">
           <mxGeometry x="70" y="110" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L6wkeS6PgrVlcIOzl3i_-4" value="通用AI能力" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="L6wkeS6PgrVlcIOzl3i_-1">
+        <mxCell id="L6wkeS6PgrVlcIOzl3i_-4" value="通用AI应用" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="L6wkeS6PgrVlcIOzl3i_-1">
           <mxGeometry x="145" y="120" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L6wkeS6PgrVlcIOzl3i_-5" value="图像/视频/自然语言处理/..." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="L6wkeS6PgrVlcIOzl3i_-1">
@@ -327,8 +327,8 @@
         <mxCell id="L6wkeS6PgrVlcIOzl3i_-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;fontSize=14;align=center;" vertex="1" parent="L6wkeS6PgrVlcIOzl3i_-1">
           <mxGeometry x="70" y="230" width="500" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="L6wkeS6PgrVlcIOzl3i_-10" value="通用AI能力" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="L6wkeS6PgrVlcIOzl3i_-1">
-          <mxGeometry x="260" y="240" width="90" height="20" as="geometry" />
+        <mxCell id="L6wkeS6PgrVlcIOzl3i_-10" value="一站式AI开发平台" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="L6wkeS6PgrVlcIOzl3i_-1">
+          <mxGeometry x="240" y="240" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L6wkeS6PgrVlcIOzl3i_-11" value="数据处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;strokeColor=#7EA6E0;" vertex="1" parent="L6wkeS6PgrVlcIOzl3i_-1">
           <mxGeometry x="90" y="270" width="100" height="30" as="geometry" />
